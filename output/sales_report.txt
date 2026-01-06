@@ -1,0 +1,141 @@
+SALES ANALYTICS REPORT
+============================================================
+Generated on: 2026-01-06 19:37:29.659181
+Records Processed: 71
+
+OVERALL SUMMARY
+------------------------------------------------------------
+Total Revenue: 3,540,205.00
+Total Transactions: 71
+Average Order Value: 49,862.04
+Date Range: 2024-12-01 to 2024-12-30
+
+REGION-WISE PERFORMANCE
+------------------------------------------------------------
+South: Revenue=889,332.00, Transactions=13, Percent=25.12%
+East: Revenue=467,969.00, Transactions=17, Percent=13.22%
+North: Revenue=1,321,605.00, Transactions=21, Percent=37.33%
+West: Revenue=848,902.00, Transactions=19, Percent=23.98%
+: Revenue=12,397.00, Transactions=1, Percent=0.35%
+
+TOP PRODUCTS
+------------------------------------------------------------
+1. LaptopPremium | Qty=27 | Revenue=2,069,871.00
+2. Monitor | Qty=30 | Revenue=493,759.00
+3. Laptop | Qty=3 | Revenue=184,329.00
+4. MonitorLED | Qty=12 | Revenue=132,104.00
+5. Webcam | Qty=35 | Revenue=128,187.00
+
+TOP CUSTOMERS
+------------------------------------------------------------
+1. C004 | Spent=857,124.00 | Orders=3
+2. C017 | Spent=762,460.00 | Orders=1
+3. C010 | Spent=457,186.00 | Orders=3
+4. C024 | Spent=261,848.00 | Orders=3
+5. C008 | Spent=216,176.00 | Orders=5
+
+DAILY SALES TREND
+------------------------------------------------------------
+2024-12-01: Revenue=123,969.00, Transactions=3, Unique Customers=2
+2024-12-02: Revenue=882,906.00, Transactions=5, Unique Customers=5
+2024-12-03: Revenue=61,851.00, Transactions=5, Unique Customers=5
+2024-12-05: Revenue=257.00, Transactions=1, Unique Customers=1
+2024-12-06: Revenue=34,072.00, Transactions=1, Unique Customers=1
+2024-12-07: Revenue=204,912.00, Transactions=10, Unique Customers=7
+2024-12-08: Revenue=70,383.00, Transactions=3, Unique Customers=3
+2024-12-09: Revenue=25,339.00, Transactions=4, Unique Customers=4
+2024-12-10: Revenue=1,550.00, Transactions=1, Unique Customers=1
+2024-12-11: Revenue=13,207.00, Transactions=2, Unique Customers=2
+2024-12-13: Revenue=417,923.00, Transactions=3, Unique Customers=3
+2024-12-14: Revenue=45,349.00, Transactions=2, Unique Customers=2
+2024-12-15: Revenue=818,960.00, Transactions=1, Unique Customers=1
+2024-12-16: Revenue=3,020.00, Transactions=1, Unique Customers=1
+2024-12-17: Revenue=114,356.00, Transactions=1, Unique Customers=1
+2024-12-18: Revenue=81,284.00, Transactions=2, Unique Customers=1
+2024-12-20: Revenue=594.00, Transactions=1, Unique Customers=1
+2024-12-21: Revenue=25,992.00, Transactions=1, Unique Customers=1
+2024-12-22: Revenue=89,645.00, Transactions=6, Unique Customers=6
+2024-12-23: Revenue=768.00, Transactions=1, Unique Customers=1
+2024-12-24: Revenue=161,907.00, Transactions=4, Unique Customers=4
+2024-12-25: Revenue=30,455.00, Transactions=4, Unique Customers=4
+2024-12-26: Revenue=34,218.00, Transactions=1, Unique Customers=1
+2024-12-27: Revenue=119,313.00, Transactions=2, Unique Customers=2
+2024-12-29: Revenue=18,005.00, Transactions=3, Unique Customers=3
+2024-12-30: Revenue=159,970.00, Transactions=3, Unique Customers=3
+
+API ENRICHMENT SUMMARY
+------------------------------------------------------------
+Total Enriched Transactions: 0
+Failed Enrichments: 71
+Unmatched Transaction IDs:
+- T018
+- T063
+- T023
+- T059
+- T035
+- T061
+- T057
+- T034
+- T050
+- T024
+- T004
+- T068
+- T066
+- T064
+- T045
+- T015
+- T055
+- T002
+- T051
+- T005
+- T007
+- T010
+- T032
+- T008
+- T060
+- T062
+- T003
+- T022
+- T046
+- T049
+- T006
+- T011
+- T031
+- T033
+- T058
+- T029
+- T030
+- T021
+- T071
+- T070
+- T028
+- T014
+- T019
+- T054
+- T001
+- T036
+- T020
+- T037
+- T012
+- T048
+- T044
+- T025
+- T027
+- T013
+- T017
+- T038
+- T052
+- T042
+- T053
+- T040
+- T065
+- T039
+- T016
+- T041
+- T043
+- T009
+- T056
+- T047
+- T026
+- T069
+- T067
